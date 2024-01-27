@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+
+}
+.imge{
+    margin-left: 650px;
+    padding-top: 30px;
+}
+h1{
+    margin-left: 600px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+}
+p{
+    margin-left: 550px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.formcontainer{
+    margin-left: 600px;
+    margin-top: 30px;
+}
+input{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
